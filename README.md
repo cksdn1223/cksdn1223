@@ -31,22 +31,22 @@
 - **[Board](https://github.com/cksdn1223/korit_07_javascript/tree/main/Practice/Board)** 📝  
   게시판 UI 구현 (목록/글쓰기) + localStorage 데이터 저장/불러오기 + HTML/CSS 테이블 레이아웃  
 
-- **[Clock](./Practice/Clock/)** ⏰  
+- **[Clock](https://github.com/cksdn1223/korit_07_javascript/tree/main/Practice/Clock)** ⏰  
   아날로그 & 디지털 시계 구현 + `Date` 객체 활용 + CSS transform/animation 적용  
 
-- **[Portfolio2](./Practice/Portfolio2/)** 🌐  
+- **[Portfolio2](https://github.com/cksdn1223/korit_07_javascript/tree/main/Practice/Portfolio2)** 🌐  
   포트폴리오 메인 화면 + 아이콘/이미지 활용 디자인 + hover/transition/glow 효과 + JS 섹션 전환 애니메이션  
 
-- **[SigninLogin](./Practice/SigninLogin/)** 🔑  
+- **[SigninLogin](https://github.com/cksdn1223/korit_07_javascript/tree/main/Practice/SigninLogin)** 🔑  
   로그인/회원가입 UI + Flexbox 중앙 정렬 + localStorage 기반 유저 데이터 관리 + 페이지 이동 처리  
 
-- **[Portfolio](./Practice/Portfolio/)** 💼  
+- **[Portfolio](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/Portfolio)** 💼  
   반응형 Flexbox 레이아웃 + JS 네비게이션 + 5개 섹션(Home, About, Projects, Skills, Contact) + 페이드 애니메이션  
 
-- **[Login UI](./Practice/login/)** 🔐  
+- **[Login UI](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/login)** 🔐  
   CSS 레이어드 디자인 + 뷰포트 기반 반응형 + 애니메이션/호버 효과  
 
 - **기타 프로젝트** 🌟  
-  [Google 검색 클론](./Practice/practice.html)  
-  [계산기 앱](./Practice/Calculator/)
+  [Google 검색 클론](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/google)  
+  [계산기 앱](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/Calculator)
 
