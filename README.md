@@ -28,7 +28,7 @@
 
 ## 📌 Practice Projects
 
-- **[Board](/korit_07_javascript/tree/main/Practice/Board/)** 📝  
+- **[Board](../korit_07_javascript/tree/main/Practice/Board/)** 📝  
   게시판 UI 구현 (목록/글쓰기) + localStorage 데이터 저장/불러오기 + HTML/CSS 테이블 레이아웃  
 
 - **[Clock](./Practice/Clock/)** ⏰  
