@@ -1,53 +1,22 @@
-# 🐍 Welcome to My GitHub!
+<h1 align="center">안녕하세요👋 김찬우입니다</h1>
+<h3 align="center">안녕하세요! 저는 백엔드 개발자를 준비하고 있는 김찬우입니다. 이 GitHub 페이지는 내가 학습한 프로그래밍 언어와 프로젝트 기록을 정리한 공간입니다.</h3>
 
-안녕하세요! 저는 **백엔드 개발자를 준비 중인 김찬우**입니다.  
-이 GitHub 페이지는 제가 학습한 **프로그래밍 언어와 프로젝트 기록**을 정리한 공간입니다.
+- 📬 Velog [https://velog.io/@cksdn1223/posts](https://velog.io/@cksdn1223/posts)
 
----
+- 📬 이메일 **rlacksdn1223@naver.com**
 
-## 💻 학습/기술 스택
+### 블로그 게시물
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- **Java**: 객체지향 프로그래밍과 기본 알고리즘 연습  
-- **Python**: 기초 문법, 반복문, 조건문, 함수 활용 프로젝트  
-- **JavaScript / HTML / CSS**: 웹 프론트엔드 기초  
-- **기타**: 문제 해결 능력 향상을 위한 코딩 테스트 연습
+<h3 align="left">나와 연결:</h3>
+<p align="left">
+<a href="/https://velog.io/@cksdn1223/posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://velog.io/@cksdn1223/posts" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">언어 및 도구:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" 너비="40" 높이="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="자바" 너비="40" 높이="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/웹/자바스크립트" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="자바스크립트" 너비="40" 높이="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 너비="40" 높이="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="노드js" 너비="40" 높이="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 너비="40" 높이="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="반응형" 너비="40" 높이="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="스프링" 너비="40" 높이="40"/> </a> </p>
 
-## 📂 주요 프로젝트
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cksdn1223&show_icons=true&locale=ko&layout=compact" alt="cksdn1223" /></p>
 
-- `korit_07_java` → Java 기반 학습 프로젝트  
-- `korit_07_python` → Python 기초 프로젝트  
-- `korit_07_javascript` → JavaScript & 웹 프로젝트  
-- `CoddingTest` → 알고리즘 & 코딩 테스트 연습  
-
----
-
-## 🌱 지금 목표
-
-- 백엔드 개발 역량 강화 (Spring, DB, API)  
-- 실무 프로젝트 경험 축적  
-- 오픈소스 참여 및 코드 리뷰 경험
-
----
-
-## 📬 Contact
-
-- Email: [rlacksdn1223@naver.com](mailto:rlacksdn1223@naver.com)  
-- Velog: [https://velog.io/@cksdn1223/series](https://velog.io/@cksdn1223/series)  
-
-
-<!--
-**cksdn1223/cksdn1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cksdn1223&show_icons=true&locale=ko" alt="cksdn1223" /></p>
