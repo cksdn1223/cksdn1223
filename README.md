@@ -1,6 +1,6 @@
 
 <p align="center" >
-  <h3 align="center">백엔드 개발자를 준비 중인 KIM CHANWOO의 학습 기록과 프로젝트 모음</h3>
+  <h3 align="center">개발자를 준비 중인 KIM CHANWOO의 학습 기록과 프로젝트 모음</h3>
 </p>
 <p align="center">
   <a href="mailto:rlacksdn1223@naver.com">
