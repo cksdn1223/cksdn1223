@@ -1,6 +1,6 @@
-# 💫 About Me
+
 <p align="center" >
-백엔드 개발자를 준비 중인 **KIM CHANWOO**의 학습 기록과 프로젝트 모음
+  <h3 align="center">백엔드 개발자를 준비 중인 KIM CHANWOO의 학습 기록과 프로젝트 모음</h3>
 </p>
 <p align="center">
   <a href="mailto:rlacksdn1223@naver.com">
@@ -11,7 +11,8 @@
   </a>
 </p>
 
-## 💻 Tech Stack
+<hr>
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -25,6 +26,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
+
 
 ## 📌 Practice Projects
 
