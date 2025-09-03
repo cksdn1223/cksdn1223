@@ -1,22 +1,52 @@
-<h1 align="center">안녕하세요👋 김찬우입니다</h1>
-<h3 align="center">안녕하세요! 저는 백엔드 개발자를 준비하고 있는 김찬우입니다. 이 GitHub 페이지는 내가 학습한 프로그래밍 언어와 프로젝트 기록을 정리한 공간입니다.</h3>
-
-- 📬 Velog [https://velog.io/@cksdn1223/posts](https://velog.io/@cksdn1223/posts)
-
-- 📬 이메일 **rlacksdn1223@naver.com**
-
-### 블로그 게시물
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">나와 연결:</h3>
-<p align="left">
-<a href="/https://velog.io/@cksdn1223/posts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://velog.io/@cksdn1223/posts" height="30" width="40" /></a>
+# 💫 About Me
+<p align="center" >
+백엔드 개발자를 준비 중인 **KIM CHANWOO**의 학습 기록과 프로젝트 모음
+</p>
+<p align="center">
+  <a href="mailto:rlacksdn1223@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://velog.io/@cksdn1223/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">언어 및 도구:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" 너비="40" 높이="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="자바" 너비="40" 높이="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/웹/자바스크립트" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="자바스크립트" 너비="40" 높이="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 너비="40" 높이="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="노드js" 너비="40" 높이="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 너비="40" 높이="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="반응형" 너비="40" 높이="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="스프링" 너비="40" 높이="40"/> </a> </p>
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cksdn1223&show_icons=true&locale=ko&layout=compact" alt="cksdn1223" /></p>
+## 📌 Practice Projects
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cksdn1223&show_icons=true&locale=ko" alt="cksdn1223" /></p>
+- **[Board](./Practice/Board/)** 📝  
+  게시판 UI 구현 (목록/글쓰기) + localStorage 데이터 저장/불러오기 + HTML/CSS 테이블 레이아웃  
+
+- **[Clock](./Practice/Clock/)** ⏰  
+  아날로그 & 디지털 시계 구현 + `Date` 객체 활용 + CSS transform/animation 적용  
+
+- **[Portfolio2](./Practice/Portfolio2/)** 🌐  
+  포트폴리오 메인 화면 + 아이콘/이미지 활용 디자인 + hover/transition/glow 효과 + JS 섹션 전환 애니메이션  
+
+- **[SigninLogin](./Practice/SigninLogin/)** 🔑  
+  로그인/회원가입 UI + Flexbox 중앙 정렬 + localStorage 기반 유저 데이터 관리 + 페이지 이동 처리  
+
+- **[Portfolio](./Practice/Portfolio/)** 💼  
+  반응형 Flexbox 레이아웃 + JS 네비게이션 + 5개 섹션(Home, About, Projects, Skills, Contact) + 페이드 애니메이션  
+
+- **[Login UI](./Practice/login/)** 🔐  
+  CSS 레이어드 디자인 + 뷰포트 기반 반응형 + 애니메이션/호버 효과  
+
+- **기타 프로젝트** 🌟  
+  [Google 검색 클론](./Practice/practice.html)  
+  [계산기 앱](./Practice/Calculator/)
+
