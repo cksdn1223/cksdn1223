@@ -23,11 +23,17 @@
 
 <h4 align="center">⚙️ Backend</h4>
 <p align="center">
+  <p align="center">
+  🚧 학습 중 (추가 예정)
+  </p>
 <!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
 </p>
 
 <h4 align="center">🗄️ Database</h4>
 <p align="center">
+  <p align="center">
+  🚧 학습 중 (추가 예정)
+  </p>
 <!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> -->
 </p>
 
