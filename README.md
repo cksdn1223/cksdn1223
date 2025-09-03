@@ -69,3 +69,6 @@
   [Google 검색 클론](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/google)  
   [계산기 앱](https://github.com/cksdn1223/korit_07_html_css/tree/main/Practice/Calculator)
 
+
+---
+✨ 꾸준히 학습하며 성장하는 개발자가 되겠습니다 ✨
