@@ -46,7 +46,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=white&layout=compact" />
+</p>
 
 ## 📌 Practice Projects
 
