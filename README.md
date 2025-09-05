@@ -6,9 +6,11 @@
   <a href="mailto:rlacksdn1223@naver.com">
     <img src="https://img.shields.io/badge/이메일-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+  <br>
   <a href="https://velog.io/@cksdn1223/series">
     <img src="https://img.shields.io/badge/벨로그-20C997?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
+  <br>
   <a href="https://velog.io/@cksdn1223/series/%EC%97%90%EB%9F%AC-%EA%B8%B0%EB%A1%9D">
     <img src="https://img.shields.io/badge/에러%20기록-FF6B6B?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
