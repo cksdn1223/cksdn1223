@@ -1,12 +1,15 @@
 <div align="center">
 
   <!-- Header -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:00BBFF&height=280&section=header&fontSize=50&animation=scaleIn)
-
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00EEFF,100:0077FF&height=280&section=header&fontSize=50&animation=scaleIn)
   <p></p>
 
-  <!-- Contact -->
-  <h3>Contact Me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&lines=Chanwoo%20Kim" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&repeat=true&width=600&lines=Backend%20Developer%20in%20Progress" />
+</p>
   <p>
     <a href="mailto:rlacksdn1223@naver.com">
       <img src="https://img.shields.io/badge/이메일-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
@@ -53,6 +56,6 @@
 
   <!-- Footer -->
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:00BBFF&height=200&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00EEFF,100:0077FF&height=200&section=footer&animation=fadeIn)
 
 </div>
