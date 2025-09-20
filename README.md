@@ -1,4 +1,4 @@
-`<div align="center">
+<div align="center">
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00EEFF,100:0077FF&height=200&section=header&fontSize=50&animation=fadeIn)
   <p></p>
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&lines=Chanwoo%20Kim" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&repeat=true&width=600&lines=Backend%20Developer%20in%20Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&repeat=true&width=600&lines=FullStack%20Developer%20in%20Progress" />
 </p>
   <p>
     <a href="mailto:rlacksdn1223@naver.com">
