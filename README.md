@@ -4,10 +4,10 @@
   <p></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&lines=Chanwoo%20Kim" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Chanwoo%20Kim" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&repeat=true&width=600&lines=FullStack%20Developer%20in%20Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&width=600&lines=FullStack%20Developer%20in%20Progress" />
 </p>
   <p>
     <a href="mailto:rlacksdn1223@naver.com">
