@@ -1,19 +1,16 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00EEFF,100:0077FF&height=200&section=header&fontSize=50&animation=fadeIn)
-  <p></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=2000&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Chanwoo%20Kim" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=2000&pause=2000&color=DDDDDD&center=true&vCenter=true&width=600&lines=FullStack%20Developer%20in%20Progress" />
-</p>
+  <p>
+    🚀 목표: 백엔드 역량 강화 + Spring 기반 프로젝트 구현  
+    <br>✨ 꾸준히 학습하며 성장하는 개발자가 되겠습니다 ✨
+  </p>
+  
   <p>
     <a href="mailto:rlacksdn1223@naver.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
-    <br>
     <a href="https://velog.io/@cksdn1223/series">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=ghost&logoColor=white" />
     </a>
@@ -45,17 +42,4 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=tokyonight&layout=compact" />
   </p>
-
-
-
-
-  <p>
-    🚀 목표: 백엔드 역량 강화 + Spring 기반 프로젝트 구현  
-    <br>✨ 꾸준히 학습하며 성장하는 개발자가 되겠습니다 ✨
-  </p>
-
-
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00EEFF,100:0077FF&height=200&section=footer&animation=fadeIn)
-
 </div>
