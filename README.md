@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
 
   <p>
-    🚀 목표: 백엔드 역량 강화 + Spring 기반 프로젝트 구현  
-    <br>✨ 꾸준히 학습하며 성장하는 개발자가 되겠습니다 ✨
+    <h2>풀스택 지향 개발자 지망생</h2>
+    ⚙️ 핵심 목표: 안정적이고 효율적인 <strong>Spring Boot</strong> 기반 백엔드 시스템 구현 역량을 강화하고 있습니다. <br>
+    ✨ 개발 철학: 지속적인 학습과 성장을 통해 문제를 해결하는 가치 있는 개발자가 되는 것을 추구합니다.
   </p>
   
   <p>
