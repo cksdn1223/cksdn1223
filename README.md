@@ -58,9 +58,11 @@
 ## 🛠 Projects
 
 <details>
-  <summary>🧾 Project 1 – Tlan (Travel Plan)</summary>
-<h2>🧾 Project 1 – Tlan (여행계획 웹 서비스)</h2>
-<h4>나만의 여행을 계획·공유하고, 여행 전/중 필요한 정보를 한 곳에서 관리하는 해외 여행 통합 서비스</h4>
+  <summary><h3>🧾 Project 1 – Tlan (여행계획 웹 서비스)</h3></summary>
+  <br/>
+
+  > 나만의 여행을 계획·공유하고, 여행 전/중 필요한 정보를 한 곳에서 관리하는 해외 여행 통합 서비스
+
 
 - **기간**: 2025-10-29 ~ 2025-12-10 (6주, 4인)  
 - **역할**: Full-stack (React + Spring Boot) 개발, 총괄
@@ -77,12 +79,12 @@
 - 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr)
 </details>
 <details>
-  <summary>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</summary>
-<h2>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</h2>
-<h4>사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼</h4>
+  <summary><h3>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</h3></summary>
+  <br/>
+  
+  > 사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼
 
 - **기간**: 2025-11-25 ~ 진행 중 (1인)  
-- **역할**: Backend 중심 설계 및 구현, 위치 기반 검색 및 알림 기능 구현
 - **주요 기능**
   - 위치·기술 태그 기반 스터디 등록 및 검색
   - 스터디 참여/관리(신청, 수락/거절), 프로필/관심 기술 관리
