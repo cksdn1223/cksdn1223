@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
 
-  <p>
-    <h2>풀스택 지향 개발자 지망생</h2>
-    ⚙️ 핵심 목표: 안정적이고 효율적인 <strong>Spring Boot</strong> 기반 백엔드 시스템 구현 역량을 강화하고 있습니다. <br>
-    ✨ 개발 철학: 지속적인 학습과 성장을 통해 문제를 해결하는 가치 있는 개발자가 되는 것을 추구합니다. <br>
-    <strong>기술을 배우는데 거부감이 없으며 발전하는것에 재미를 느낍니다</strong>
-  </p>
+  ### 풀스택 지향 개발자 지망생
+  
+  🌱 안정적이고 효율적인 **Spring Boot 기반 백엔드 시스템** 구현 역량을 키워가고 있습니다.  
+  🔍 **지속적인 학습과 성장**을 통해 문제를 해결하는 가치 있는 개발자를 목표로 합니다.  
+  💡 기술을 배우는 데 거부감이 없으며, **새로운 것을 익히고 발전하는 과정 자체를 즐깁니다.**
+  <br/>
   
   <p>
     <a href="mailto:rlacksdn1223@naver.com">
@@ -18,10 +18,7 @@
     </a>
   </p>
 
-
-
-
-  ### 💻 Tech Stack
+  ## 💻 Tech Stack
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -44,9 +41,54 @@
     <br>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </p>
-
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=radical" />
-  </p>
 </div>
+
+---
+
+## ✨ About Me
+
+- 👨‍🎓 현재 **백엔드 중심의 풀스택 개발자**를 목표로 공부 중입니다.
+- 💻 **코딩하는 과정 자체를 즐기며**, 새로운 기능을 하나씩 완성하는 데서 큰 재미를 느낍니다.
+- 🐞 에러와 버그를 만나도 스트레스보단, **원인 분석하고 해결하는 과정**을 좋아합니다.
+- 📚 CS 기초는 아직 약하다고 느껴서, 프로젝트를 진행하면서 **부족한 부분을 채워가는 중**입니다.
+- 📝 협업할 때는 소통과 기록을 통해 서로 이해를 맞추는 것을 중요하게 생각합니다.
+
+---
+## 🛠 Projects
+
+### 🧾 Project 1 – Tlan (Travel Plan)
+> 나만의 여행을 계획·공유하고, 여행 전/중 필요한 정보를 한 곳에서 관리하는 해외 여행 통합 서비스
+
+- **기간**: 2025-10-29 ~ 2025-12-10 (6주, 4인)  
+- **역할**: Full-stack (React + Spring Boot) 개발, 총괄
+- **주요 기능**
+  - 일정별 여행 계획 CRUD, 장소 검색 + 지도 연동
+  - 여행 계획 및 실시간 수정 공유, 실시간 채팅
+  - 위험 지역·응급 정보, 실시간 환율 제공
+- **기술 스택**
+  - FE: `React`, `TypeScript`, `TanStack Query`, `React Router`, `Tailwind CSS`
+  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
+  - DB: `MariaDB`
+  - API: `Google Maps Platform`, `Google Places API`
+- 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr)
+
+### 🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)
+> 사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼
+- **기간**: 2025-11-25 ~ 진행 중 (1인)  
+- **주요 기능**
+  - 위치·기술 태그 기반 스터디 등록 및 검색
+  - 스터디 참여/관리(신청, 수락/거절), 프로필/관심 기술 관리
+  - 실시간 채팅 및 인앱 알림, 브라우저 푸시 알림
+- **기술 스택**
+  - FE: `React`, `TypeScript`, `TanStack Query`, `React Router`, `Tailwind CSS`
+  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
+  - DB: `PostgreSQL` + `PostGIS`
+  - 통신: `WebSocket`, `Web Push Notification`
+  - 배포: `Docker`, `GCP` (예정/구축 중)
+- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub)
+---
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn1223&theme=radical"/>
+
+
