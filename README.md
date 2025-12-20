@@ -81,7 +81,7 @@
   - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
   - DB: `MariaDB`
   - API: `Google Maps Platform`, `Google Places API`
-- 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr)
+- 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr) (현재 배포 종료)
 </details>
 <details>
   <summary><h3>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</h3></summary>
@@ -89,7 +89,7 @@
   
   > 사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼
 
-- **기간**: 2025-11-25 ~ 2025-12-15 (3주, 1인)  
+- **기간**: 2025-11-25 ~ 2025-12-15 (3주, 1인)
 - **주요 기능**
   - 위치·기술 태그 기반 스터디 등록 및 검색
   - 스터디 참여/관리(신청, 수락/거절), 프로필/관심 기술 관리
@@ -100,7 +100,7 @@
   - DB: `PostgreSQL` + `PostGIS`
   - 통신: `WebSocket`, `Web Push Notification`
   - 배포: `Docker`, `GCP`
-- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr)
+- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr) (배포중)
 </details>
 
 ---
