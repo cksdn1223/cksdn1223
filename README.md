@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
 
-  ### 풀스택 지향 개발자 지망생
   
-  🌱 안정적이고 효율적인 **Spring Boot 기반 백엔드 시스템** 구현 역량을 키워가고 있습니다.  
+  🌱 안정적이고 효율적인 **백엔드 시스템** 구현 역량을 키워가고 있습니다.  
   🔍 **지속적인 학습과 성장**을 통해 문제를 해결하는 개발자를 목표로 합니다.  
   💡 새로운 기술을 익히고 적용해 보는 과정을 즐깁니다.
   <br/>
@@ -101,6 +100,7 @@
   - 통신: `WebSocket`, `Web Push Notification`
   - 배포: `Docker`, `GCP`
 - 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr) (배포중)
+- 테스트계정 : test@test.com / qwer1234!
 </details>
 
 ---
