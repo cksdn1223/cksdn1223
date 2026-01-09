@@ -114,7 +114,7 @@
   - 음악 실시간 공유 및 동기화
   - 동기부여를 위한 다마고치 서비스 및 소셜 기능
 - **기술 스택**
-  - FE: `React`, `TypeScript`, `Tailwind CSS`
+  - FE: `React`, `TypeScript`, `Tailwind CSS`, `Zustand`, `Framer Motion`
   - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
   - DB: `MariaDB`
   - 통신: `See`
