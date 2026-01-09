@@ -95,14 +95,32 @@
   - 실시간 채팅 및 인앱 알림, 브라우저 푸시 알림
 - **기술 스택**
   - FE: `React`, `TypeScript`, `TanStack Query`, `React Router`, `Tailwind CSS`
-  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`, `QueryDSL`
+  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
   - DB: `PostgreSQL` + `PostGIS`
   - 통신: `WebSocket`, `Web Push Notification`
   - 배포: `Docker`, `GCP`
 - 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr) (배포중)
 - 테스트계정 : test@test.com / qwer1234!
 </details>
+<details>
+  <summary><h3>🧾 Project 3 - Blinky (눈건강 음악공유 다마고치)</h3></summary>
+  <br/>
 
+  > 개발자의 눈건강을 위해 개발시간을 기록하며 눈을 회복하고 음악을 실시간으로 공유하는 다마고치 서비스
+
+- **기간**: 2026-01-01 ~ 2026-01-12 (11일, 1인)
+- **주요 기능**
+  - 집중 시간 기록 및 총 시간 기록
+  - 음악 실시간 공유 및 동기화
+  - 동기부여를 위한 다마고치 서비스 및 소셜 기능
+- **기술 스택**
+  - FE: `React`, `TypeScript`, `Tailwind CSS`
+  - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
+  - DB: `MariaDB`
+  - 통신: `See`
+  - 배포: `Docker`, `GCP`
+- 링크: [깃허브 링크](https://github.com/cksdn1223/Blinky) · [배포 링크](https://blinky.kro.kr) (배포미완)
+</details>
 ---
 ## 📊 GitHub Stats
 
