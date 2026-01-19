@@ -15,7 +15,7 @@
     <a href="https://velog.io/@cksdn1223/series">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
     </a>
-  </p>
+  </p> 
 
   ## 💻 Tech Stack
   <p>
