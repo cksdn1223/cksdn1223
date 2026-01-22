@@ -62,7 +62,7 @@
 ## 🛠 Projects
 
 <details>
-  <summary><h3>🧾 Project 1 – Tlan (여행계획 웹 서비스)</h3></summary>
+  <summary>🧾 Project 1 – Tlan (여행계획 웹 서비스)</summary>
   <br/>
 
   > 나만의 여행을 계획·공유하고, 여행 전/중 필요한 정보를 한 곳에서 관리하는 해외 여행 통합 서비스
@@ -83,7 +83,7 @@
 - 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr) (현재 배포 종료)
 </details>
 <details>
-  <summary><h3>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</h3></summary>
+  <summary>🧾 Project 2 – StudyHub (스터디 매칭 웹 서비스)</summary>
   <br/>
   
   > 사용자의 위치와 관심 기술을 기반으로 스터디를 매칭하고, 실시간 소통·알림을 제공하는 스터디 플랫폼
@@ -103,7 +103,7 @@
 - 테스트계정 : test@test.com / qwer1234!
 </details>
 <details>
-  <summary><h3>🧾 Project 3 - Blinky (눈건강 음악공유 다마고치)</h3></summary>
+  <summary>🧾 Project 3 - Blinky (눈건강 음악공유 다마고치)</summary>
   <br/>
 
   > 개발자의 눈건강을 위해 개발시간을 기록하며 눈을 회복하고 음악을 실시간으로 공유하는 다마고치 서비스
