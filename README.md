@@ -118,7 +118,7 @@
   - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
   - DB: `MariaDB`
   - 통신: `See`
-  - 배포: `Docker`, `개인리눅스서버 구축 후 배포`
+  - 배포: `Docker`, `개인리눅스서버 구축 후 배포` 
 - 링크: [깃허브 링크](https://github.com/cksdn1223/Blinky) · [배포 링크](https://blinky.cksdn.site) (배포중)
 </details>
 
