@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chanwoo%20Kim!&fontAlign=50&fontAlignY=40&color=gradient" />
 
   
-  🌱 안정적이고 효율적인 **백엔드 시스템** 구현 역량을 키워가고 있습니다.  
+  🌱 안정적이고 효율적인 **백엔드 시스템** 구현 역량을 키워가고 있습니다.   
   🔍 **지속적인 학습과 성장**을 통해 문제를 해결하는 개발자를 목표로 합니다.  
   💡 새로운 기술을 익히고 적용해 보는 과정을 즐깁니다.
   <br/>
