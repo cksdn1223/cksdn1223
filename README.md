@@ -99,7 +99,7 @@
   - DB: `PostgreSQL` + `PostGIS`
   - 통신: `WebSocket`, `Web Push Notification`
   - 배포: `Docker`, `GCP`
-- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr) (배포중)
+- 링크: [깃허브 링크](https://github.com/cksdn1223/StudyHub) · [배포 링크](https://studyhub.kro.kr) (잠시 중지)
 - 테스트계정 : test@test.com / qwer1234!
 </details>
 <details>
@@ -119,7 +119,7 @@
   - DB: `MariaDB`
   - 통신: `See`
   - 배포: `Docker`, `개인리눅스서버 구축 후 배포` 
-- 링크: [깃허브 링크](https://github.com/cksdn1223/Blinky) · [배포 링크](https://blinky.cksdn.site) (배포중)
+- 링크: [깃허브 링크](https://github.com/cksdn1223/Blinky) · [배포 링크](https://blinky.cksdn.site) (잠시 중지)
 </details>
 
 ---
