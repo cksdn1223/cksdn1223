@@ -80,6 +80,7 @@
   - BE: `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA`
   - DB: `MariaDB`
   - API: `Google Maps Platform`, `Google Places API`
+  - 배포: `Docker`, `GCP`
 - 링크: [깃허브 링크](https://github.com/PPKK-Project/Tlan/) · [배포 링크](https://tlan.kro.kr) (현재 배포 종료)
 </details>
 <details>
